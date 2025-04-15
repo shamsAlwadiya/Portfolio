@@ -18,7 +18,6 @@ const Header = () => {
   return (
     <header className={`header ${scrolled ? 'scrolled' : ''}`}>
       <div className="container">
-        {/* Logo مع تأثير حركي */}
         <div className="logo-container">
           <a href="/" className="logo">
             <span className="logo-text">{"Portfolio"}</span>
@@ -26,7 +25,6 @@ const Header = () => {
           </a>
         </div>
 
-        {/* Navigation للشاشات الكبيرة */}
         <nav className="desktop-nav">
           <ul>
             <li>

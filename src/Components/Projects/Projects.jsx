@@ -1,4 +1,3 @@
-// src/components/Projects/Projects.js
 import React from "react";
 import "./Projects.css";
 
