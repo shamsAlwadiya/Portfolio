@@ -20,6 +20,18 @@ const projects = [
     description: "  a smart home cleaning system that helps you organize, schedule, and track cleaning tasks, making home management easier and more efficient.Let me know if you want to adapt it for a hero section, pitch, or tagline!",
     link: "https://github.com/shamsAlwadiya/clean-stead",
   },
+  {
+    id: 4,
+    title: "E-commerce System",
+    description: "An e-commerce system is a digital platform that facilitates online buying and selling of products or services. It includes features like product listings, shopping carts and order management.",
+    link: "https://github.com/shamsAlwadiya/E-commerce-store",
+  },
+  {
+    id: 5,
+    title: "BookSpace System",
+    description: "BookSpace is a digital platform designed to facilitate the buying, selling, and sharing of books. It connects readers with a wide range of books, allowing them to discover new titles, share reviews, and engage with a community of book lovers.",
+    link: "https://github.com/shamsAlwadiya/Booking-room",
+  }
 ];
 
 function Projects() {
